@@ -17,7 +17,9 @@
 
 ## Demo
 Here is a demo of the app, available in **Youtube**:
+
 [![Video to a demo of Tu Casa VR](https://img.youtube.com/vi/Z4lOJnKnJfQ/0.jpg)](https://www.youtube.com/watch?v=Z4lOJnKnJfQ)
+
 https://youtu.be/Z4lOJnKnJfQ
 
 ## Visual features
